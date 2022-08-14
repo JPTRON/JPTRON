@@ -1,16 +1,30 @@
-### Hi there 👋
+<p align="center"> 
+    <img width="600px" src="https://cdn.discordapp.com/attachments/388668388953686026/1008058360576352296/transparentGradientBleedJPTRON.png"/>
+    <br>
+    <img src="https://custom-icon-badges.herokuapp.com/badge/POGGERS-6F35A9?&style=flat-square&logo=poggers"/>
+</p>
 
-<!--
-**JPTRON/JPTRON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<hr>
+<br>
+<p> </p>
 
-Here are some ideas to get you started:
+- Born in 2003
+- Javascript addict (tho I'm bad 😂)
+- Always trying to develop random stuff
+- Interests: Bots, Game Dev, Web Dev   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<hr>
+<br>
+<br>
+
+<p align="center"> 
+    <img width="400px" src="https://github-readme-stats.vercel.app/api?username=jptron&hide=contribs,prs&theme=radical" />
+    <img width="257px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jptron&layout=compact&theme=radical" />
+</p>
+
+<br>
+<hr>
+<br>
+<p> </p>

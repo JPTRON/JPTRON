@@ -10,7 +10,7 @@
 <p> </p>
 
 - Born in 2003
-- Javascript addict (tho I'm bad 😂)
+- JavaScript addict (tho I'm bad 😂)
 - Always trying to develop random stuff
 - Interests: Bots, Game Dev, Web Dev   
 

@@ -17,5 +17,3 @@
     <img height="130" src="https://github-readme-stats.vercel.app/api?username=jptron&hide=contribs,prs&theme=radical" />
     <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jptron&layout=compact&theme=radical" />
 </div>
-
-<hr>
